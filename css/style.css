@@ -1,20 +1,28 @@
 body {
-    width: 1366px;
+    width: 100%;
     background-color: #f8cec0;
+    margin: 0;
+    padding: 0;
 }
 
-
+h3 {
+    padding: 0;
+    margin: 0;
+}
 nav {
 }
 
 nav ul {
 
     background-color: #e9b223;
+    text-align: center;
 }
 
 nav li {
-    display: inline;
+    display: inline-block;
     list-style: none;
+    text-align: center;
+    margin: 0 0.5em;
 }
 
 nav li a {
@@ -27,6 +35,11 @@ main {
     padding: 0;
     width: 74%;
     background-color: #e5186e;
+}
+
+article {
+    width: 32%;
+    display: inline-block;
 }
 
 aside {
