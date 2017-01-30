@@ -1,7 +1,6 @@
 body {
     width: 100%;
     background-color: #f8cec0;
-    margin: 0;
     padding: 0;
 }
 
@@ -43,7 +42,8 @@ article {
 }
 
 aside {
-    float: right;
+    display: inline-block;
+    vertical-align: top;
     margin: 0;
     padding: 0;
     width: 25%;
