@@ -1,0 +1,25 @@
+@media only screen and (max-device-width : 400px) {
+    body {
+        width: 400px;
+        background-image: url("http://hamthechimp.files.wordpress.com/2009/11/epileptic.jpg");
+    }
+
+    nav ul {
+
+    }
+
+    nav li {
+        display: block;
+    }
+
+    main {
+        width: 98%;
+        background-color:
+    }
+
+    aside {
+        width: 99%;
+        display: block;
+        background-color:
+    }
+}

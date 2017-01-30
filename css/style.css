@@ -1,0 +1,40 @@
+body {
+    width: 1366px;
+    background-color: #f8cec0;
+}
+
+
+nav {
+}
+
+nav ul {
+
+    background-color: #e9b223;
+}
+
+nav li {
+    display: inline;
+    list-style: none;
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+}
+main {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    width: 74%;
+    background-color: #e5186e;
+}
+
+aside {
+    float: right;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    height: 100%;
+    background-color: #cc1812;
+
+}
